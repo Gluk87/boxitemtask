@@ -86,13 +86,16 @@ Date: Mon, 01 Sep 2019 12:00:26 GMT
 # Решение
 Использовались следующие библиотеки:
 
-org.xerial/sqlite-jdbc - для работы с локальной БД SQLite
-org.apache.cxf/cxf-rt-frontend-jaxrs - для работы с XML
-org.springframework.boot/spring-boot-starter-web - для создания web-сервиса
+org.xerial/sqlite-jdbc - для работы с локальной БД SQLite;
+
+org.apache.cxf/cxf-rt-frontend-jaxrs - для работы с XML;
+
+org.springframework.boot/spring-boot-starter-web - для создания web-сервиса;
 
 Пример работы:
 ![alt text](https://github.com/Gluk87/boxitemtask/blob/main/Screens/Screen1.png)
 ![alt text](https://github.com/Gluk87/boxitemtask/blob/main/Screens/Screen2.png)
+![alt text](https://github.com/Gluk87/boxitemtask/blob/main/Screens/Screen4.png)
 
 Добавление строк в таблицы логируется:
 ![alt text](https://github.com/Gluk87/boxitemtask/blob/main/Screens/Screen3.png)

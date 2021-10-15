@@ -1,8 +1,8 @@
 package ru.task;
 
 public class JsonRequest {
-    int box;
-    String color;
+    private int box;
+    private String color;
 
     public JsonRequest(){
 
@@ -11,7 +11,15 @@ public class JsonRequest {
         return box;
     }
 
+    public void setBox(int box) {
+        this.box = box;
+    }
+
     public String getColor() {
         return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
     }
 }

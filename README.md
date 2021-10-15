@@ -99,3 +99,8 @@ org.springframework.boot/spring-boot-starter-web - для создания web-�
 
 Добавление строк в таблицы логируется:
 ![alt text](https://github.com/Gluk87/boxitemtask/blob/main/Screens/Screen3.png)
+
+# Тесты
+Для тестов использовал JUnit
+
+![alt text](https://github.com/Gluk87/boxitemtask/blob/main/Screens/Screen5.png)
